@@ -7,7 +7,7 @@
             bg-red-500 hover:bg-red-600
             hover:text-white">
             
-            <slot></slot>
+            <slot>YouTube</slot>
         </a>
 </template>
 
